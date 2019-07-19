@@ -20,6 +20,8 @@ This course answers the following questions.
 
 You’ll also hear about some interesting features of Linux that make containers possible.
 
+During the workshop we will have some interactive sessions, some presentations, and time to work through the [workshop scenarios](https://www.katacoda.com/lizrice/training/containers-and-go) at your own pace. This page will help you get orientated.
+
 ## Why is this workshop for Go programmers?
 
 A lot of this material is relevant whatever language you use, but it assumes basic familiarity with Go.
@@ -27,15 +29,11 @@ A lot of this material is relevant whatever language you use, but it assumes bas
 * The example code uses Go
 * There are scenarios that focus on container images optimized for standalone binary executables - you can't do quite the same thing if you have a scripted language or need lots of dependencies available at runtime
 
-## Before you start
+## Before the workshop
 
 You can run nearly all the scenarios on [Katacoda](https://www.katacoda.com), a training platform that gives you an online environment where you can easily work through the examples. You will just need an internet connection for this.
 
-There are some optional exercises you can run if you have Docker installed on your laptop. While it's not absolutely essential, you will get the most out of the workshop if you [install Docker](https://docker.com) before you attend the session.
-
-## Attending the workshop
-
-If you're attending the workshop we will have some interactive sessions, some presentations, and time to work through the [workshop scenarios](https://www.katacoda.com/lizrice/training/containers-and-go) at your own pace. This page will help you get orientated.
+There are some optional exercises you can run if you have Docker installed on your laptop, so please [install Docker](https://docker.com) and create a free account on [Docker Hub](https://hub.docker.com) before you attend the session.
 
 ## Need help?
 
