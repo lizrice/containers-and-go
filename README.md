@@ -4,6 +4,8 @@
 
 This workshop is designed to help Go programmers get a solid understanding of containers. During the course of this workshop you will do practical exercises that introduce you to tools like Docker, Kubernetes, and Skaffold. I hope these practical skills will be useful, but even more importantly the intention is to give you a solid understanding of what is happening when you use them. Sometimes technology feels like magic, but we can use it more effectively and powerfully if we look behind the curtain and learn how the magic trick is put together.
 
+<img align="right" src="Aqua_logo_2018_200sq.png">
+
 If you have already used tools like Docker and Kubernetes before, some of this material will be very familiar to you. If you have extra time there are additional exercises and further reading to keep you busy.
 
 _This workshop is supported by [Aqua Security](https://www.aquasec.com), the enterprise platform for cloud native security._
@@ -63,5 +65,8 @@ If you're at a workshop we are here to help! You can ask any of the trainers for
 
 * Why orchestration?
 * Try Kubernetes
+* Intro to Kubernetes Security 
 
-[![Aqua Security](Aqua_logo_2018_200sq.png)](https://aquasec.com)
+<img align="right" width="200" src="https://kubernetes-security.info/assets/img/cover.png"> 
+
+You can download a digital copy of _Kubernetes Security_ [here](https://info.aquasec.com/kubernetes-security)
