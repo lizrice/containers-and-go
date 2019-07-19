@@ -64,3 +64,4 @@ If you're at a workshop we are here to help! You can ask any of the trainers for
 * Why orchestration?
 * Try Kubernetes
 
+[![Aqua Security](Aqua_logo_2018_200sq.png)](https://aquasec.com)
