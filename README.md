@@ -33,7 +33,7 @@ A lot of this material is relevant whatever language you use, but it assumes bas
 
 ## Before the workshop
 
-You can run nearly all the scenarios on [Katacoda](https://www.katacoda.com), a training platform that gives you an online environment where you can easily work through the examples. You will just need an internet connection for this.
+You can run nearly all the scenarios on [Katacoda](https://www.katacoda.com), a training platform that gives you an online environment where you can easily work through the examples. You will just need an internet connection for this (and you will need to have [3rd-party cookes enabled on your browser](https://www.whatismybrowser.com/detect/are-third-party-cookies-enabled)). 
 
 There are some optional exercises you can run if you have Docker installed on your laptop, so please [install Docker](https://docker.com) and create a free account on [Docker Hub](https://hub.docker.com) before you attend the session.
 
