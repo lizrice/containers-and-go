@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/containers-and-go/community.svg)](https://gitter.im/containers-and-go/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Introduction to Containers for Go Programmers
 
 This workshop is designed to help Go programmers get a solid understanding of containers. During the course of this workshop you will do practical exercises that introduce you to tools like Docker, Kubernetes, and Skaffold. I hope these practical skills will be useful, but even more importantly the intention is to give you a solid understanding of what is happening when you use them. Sometimes technology feels like magic, but we can use it more effectively and powerfully if we look behind the curtain and learn how the magic trick is put together.
@@ -29,32 +31,38 @@ A lot of this material is relevant whatever language you use, but it assumes bas
 
 You can run nearly all the scenarios on [Katacoda](https://www.katacoda.com), a training platform that gives you an online environment where you can easily work through the examples. You will just need an internet connection for this.
 
-Some of the exercises assume you have Docker installed on your laptop. While it's not absolutely essential, you will get the most out of the workshop if you [install Docker](https://docker.com) before you attend the session.
+There are some optional exercises you can run if you have Docker installed on your laptop. While it's not absolutely essential, you will get the most out of the workshop if you [install Docker](https://docker.com) before you attend the session.
 
 ## Attending the workshop
 
-If you're attending the workshop we will have some interactive sessions, some presentations, and time to work through the workshop scenarios at your own pace. This page will help you get orientated.
+If you're attending the workshop we will have some interactive sessions, some presentations, and time to work through the [workshop scenarios](https://www.katacoda.com/lizrice/training/containers-and-go) at your own pace. This page will help you get orientated.
+
+## Need help?
+
+If you're at a workshop we are here to help! You can ask any of the trainers for assistance. You can also ask for help in the [Gitter community](https://gitter.im/containers-and-go/community) for this workshop.
 
 ## Agenda
 
 ### Part 1 - What containers are
 
-* Discussion
-* [Container basics: containers and images](https://beta.katacoda.com/lizrice/hello)
-* [What's inside a container image?](https://beta.katacoda.com/lizrice/images)
-* [Entrypoints and commands](https://beta.katacoda.com/lizrice/entrypoint)
+* Discussion: what are containers?
+* Container basics: containers and images
+* What's inside a container image?
+* Entrypoints and commands (optional)
 
 ### Part 2 - What containers _really_ are
 
-* Demo
-* [Write a container from scratch](https://beta.katacoda.com/lizrice/scratch)
+* Demo: containers are made from namespaces, chroot and cgroups
+* Write a container from scratch yourself
 
-### Part 3 - Connecting and protecting containers
+### Part 3 - Containers for Go apps
 
-* Orchestration 
-* [Vulnerability scanning](https://beta.katacoda.com/lizrice/microscanner)
+* Go apps and multistage builds
+* Vulnerability scanning for containers
+* Skaffold
 
-### Part 4 - Containers for Go
+### Part 4 - Intro to Kubernetes
 
-* [Multistage builds](https://beta.katacoda.com/lizrice/multistage)
-* [Skaffold](https://beta.katacoda.com/lizrice/skaffold)
+* Why orchestration?
+* Try Kubernetes
+
