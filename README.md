@@ -57,6 +57,8 @@ If you're at a workshop we are here to help! You can ask any of the trainers for
 
 ### Part 3 - Containers for Go apps
 
+<a href="https://info.aquasec.com/kubernetes-security"><img align="right" width="200" src="Kubernetes-security-book.png"></a> 
+
 * Go apps and multistage builds
 * Vulnerability scanning for containers
 * Skaffold
@@ -66,7 +68,5 @@ If you're at a workshop we are here to help! You can ask any of the trainers for
 * Why orchestration?
 * Try Kubernetes
 * Intro to Kubernetes Security 
-
-<img align="right" width="200" src="https://kubernetes-security.info/assets/img/cover.png"> 
 
 You can download a digital copy of _Kubernetes Security_ [here](https://info.aquasec.com/kubernetes-security)
