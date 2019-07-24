@@ -22,7 +22,7 @@ This course answers the following questions.
 
 You’ll also hear about some interesting features of Linux that make containers possible.
 
-During the workshop we will have some interactive sessions, some presentations, and time to work through the [workshop scenarios](https://www.katacoda.com/lizrice/training/containers-and-go) at your own pace. This page will help you get orientated.
+During the workshop we will have some interactive sessions, some presentations, and time to work through the [workshop scenarios](https://www.katacoda.com/lizrice/courses/containers-and-go) at your own pace. This page will help you get orientated.
 
 ## Why is this workshop for Go programmers?
 
